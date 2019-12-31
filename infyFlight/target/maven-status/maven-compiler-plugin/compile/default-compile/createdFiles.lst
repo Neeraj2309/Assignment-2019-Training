@@ -1,0 +1,6 @@
+com\infy\flight\InfyFlightApplication.class
+com\infy\flight\controller\FlightController.class
+com\infy\flight\repository\FlightRepository.class
+com\infy\flight\service\FlightServiceImpl.class
+com\infy\flight\entity\Flight.class
+com\infy\flight\service\FlightService.class

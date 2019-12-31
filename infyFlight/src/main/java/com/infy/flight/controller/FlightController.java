@@ -41,7 +41,7 @@ public class FlightController {
 	}
 	
 	@RequestMapping(value = "/getSingleFlight/{id}")
-	@ResponseBody
+	
 	public Flight getFlight(@PathVariable("id") Integer id) {
 		
 		flightService.getFlight(id);
